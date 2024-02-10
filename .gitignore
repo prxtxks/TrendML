@@ -1,0 +1,49 @@
+# Node.js / Next.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+.env
+.env.local
+.env.*.local
+
+# Python / ML service
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.env
+ml/__pycache__/
+ml/app/storage/models/*.pkl
+ml/app/storage/models/*.pt
+ml/app/storage/datasets/processed/*.csv
+ml/.env
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Scripts
+setup.sh
+backdate.sh
+
+# Prisma / Database
+app/src/prisma/migrations/
+app/src/prisma/dev.db
+database/migrations/
+database/*.sqlite3
