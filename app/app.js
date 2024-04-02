@@ -1,4 +1,4 @@
-// app/app.js
+// app/app.js minimal
 import express from "express";
 import session from "express-session";
 import { shopify } from "./config/shopify.js";
