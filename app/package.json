@@ -1,0 +1,25 @@
+{
+  "name": "trendml-shopify-backend",
+  "version": "1.0.0",
+  "description": "Backend server for TrendML Shopify app",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@shopify/shopify-api": "^8.0.0",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "nodemon": "^3.0.0"
+  }
+}
