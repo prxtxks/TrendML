@@ -1,6 +1,6 @@
-# 🛒 TrendML — AI-Powered Personalized Product Recommendation Engine
+# 🛍️ TrendML — AI-Powered Personalized Product Recommendation Engine
 
-## 🎯 Core Idea
+## 🔮 Core Idea
 In today’s e-commerce landscape, personalization is the standard. Customers expect platforms to understand their preferences, anticipate their needs, and deliver relevant products in real time.  
 
 **TrendML** is an AI-powered system that connects to prebuilt e-commerce stores (like Shopify, WooCommerce, Magento) to automatically fetch product catalogs and user interaction data. It generates real-time, explainable product recommendations that can be integrated directly into the store or displayed via a testing dashboard.
