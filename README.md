@@ -1,4 +1,7 @@
 # 🛍️ TrendML — AI-Powered Personalized Product Recommendation Engine
+- trendML is a shopify app what you add in your shopify store.
+- trendml connects to your shopify store, and you can access trendml's own dashboard (store owner admin panel)
+- trendml uses data like customer browser history, and other factors and recommends tghe customer products that are impulse buys.
 
 ## 🔮 Core Idea
 In today’s e-commerce landscape, personalization is the standard. Customers expect platforms to understand their preferences, anticipate their needs, and deliver relevant products in real time.  
