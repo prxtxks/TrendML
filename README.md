@@ -67,9 +67,6 @@ See recommendations in action on a Shopify storefront powered by TrendML.
 
 ![AI Recommendations in Action](sample-store.png)
 
-
-
-
 ## 🧩 System Workflow Diagram
 
 ```mermaid
