@@ -1,7 +1,7 @@
-# 🛍️ TrendML — AI-Powered Personalized Product Recommendation Engine for Shopify
+# AI-Powered Personalized Product Recommendation Engine for Shopify
 ![TrendML Dashboard](trendML.png)
 
-## 🔮 Core Idea
+## Core Idea
 In modern e-commerce, personalization isn’t optional—it’s expected. Customers want stores that understand their preferences, anticipate their needs, and surface relevant products in real-time.  
 
 **TrendML** is a Shopify app that transforms this vision into reality:  
@@ -12,7 +12,7 @@ In modern e-commerce, personalization isn’t optional—it’s expected. Custom
 
 > TrendML acts as your **AI Assistant Analyst**, turning hidden patterns in your store data into actionable, revenue-driving recommendations.
 
-## 🎯 Project Overview
+## Project Overview
 TrendML is a **hybrid AI recommendation system** combining collaborative filtering, content-based filtering, and deep learning.  
 
 **Key Goals:**  
@@ -20,33 +20,32 @@ TrendML is a **hybrid AI recommendation system** combining collaborative filteri
 - ✅ Drive product discovery and cross-selling  
 - ✅ Provide explainable, actionable insights via a beautiful dashboard  
 
-## ⚙️ Tech Stack
-- **Programming:** Python 🐍, Node.js  
+## Tech Stack
+- **Programming:** Python, Node.js  
 - **ML & AI:** TensorFlow, Scikit-Learn, Surprise  
 - **Database:** PostgreSQL  
 - **Data Handling:** Pandas, NumPy  
 - **Visualization & UI:** Streamlit for dashboard mockups  
 - **Deployment:** Flask / FastAPI backend, Shopify app integration  
 
-## 🧩 How It Works
+## How It Works
 TrendML is designed as a **plug-and-play Shopify app**. Below is the workflow from store connection to live recommendations, integrated with UI mockups.
 
-### 1. Dashboard Homepage
-Overview of store performance, recommendation insights, and metrics.
+> 1. **TrendML Dashboard**: Overview of store performance, recommendation insights, and metrics.
 
 ![TrendML Dashboard](dashboard.png)
 
-### 2. Connect Your Shopify Store & Import Product Catalog
+> 2. Connect Your Shopify Store & Import Product Catalog
 Merchants connect their store via OAuth and API keys, then import product metadata, inventory, and categories for AI training.
 
 ![Shopify Store Connection](store-connection.png)  
 
-### 3. Add TrendML Widget
+> 3. Add TrendML Widget
 Display AI-powered recommendations on homepage, collections, and product pages.
 
 ![Widget on Storefront](widget.png)
 
-### 4. Recommendation Tuning Lab
+> 4. Recommendation Tuning Lab
 Monitor metrics, tune strategies, and configure the recommendation engine:
 
 - **Maximize Conversion:** Focus on immediate sales  
@@ -62,12 +61,12 @@ Monitor metrics, tune strategies, and configure the recommendation engine:
 - A/B testing & monitoring
 
 
-### 5. Sample Store Using TrendML
+> 5. Sample Store Using TrendML
 See recommendations in action on a Shopify storefront powered by TrendML.
 
 ![AI Recommendations in Action](sample-store.png)
 
-## 🧩 System Workflow Diagram
+## System Workflow Diagram
 
 ```mermaid
 graph TD
@@ -79,7 +78,7 @@ graph TD
     F --> G[Real-Time Monitoring & Tuning]
 ```
 
-## 📝 Notes
+## Notes
 
 - **Shopify Store Integration:** Connect merchant Shopify stores via OAuth and API keys. Automatically fetch product catalog, inventory, and categories.  
 - **Preprocessing Pipeline:** Clean and normalize product and interaction data, handle missing values, generate embeddings for AI models.  
