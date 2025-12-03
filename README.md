@@ -16,9 +16,9 @@ In modern e-commerce, personalization isn’t optional—it’s expected. Custom
 TrendML is a **hybrid AI recommendation system** combining collaborative filtering, content-based filtering, and deep learning.  
 
 **Key Goals:**  
-- ✅ Boost conversion by showing the right products to the right users  
-- ✅ Drive product discovery and cross-selling  
-- ✅ Provide explainable, actionable insights via a beautiful dashboard  
+- Boost conversion by showing the right products to the right users  
+- Drive product discovery and cross-selling  
+- Provide explainable, actionable insights via a beautiful dashboard  
 
 ## Tech Stack
 - **Programming:** Python, Node.js  
@@ -35,18 +35,15 @@ TrendML is designed as a **plug-and-play Shopify app**. Below is the workflow fr
 
 ![TrendML Dashboard](dashboard.png)
 
-> 2. Connect Your Shopify Store & Import Product Catalog
-Merchants connect their store via OAuth and API keys, then import product metadata, inventory, and categories for AI training.
+> 2. **Connect Your Shopify Store**: Merchants connect their store via OAuth and API keys, then import product metadata, inventory, and categories for AI training.
 
 ![Shopify Store Connection](store-connection.png)  
 
-> 3. Add TrendML Widget
-Display AI-powered recommendations on homepage, collections, and product pages.
+> 3. **Add TrendML Widget**: Display AI-powered recommendations on homepage, collections, and product pages.
 
 ![Widget on Storefront](widget.png)
 
-> 4. Recommendation Tuning Lab
-Monitor metrics, tune strategies, and configure the recommendation engine:
+> 4. **Recommendation Tuning Lab**: Monitor metrics, tune strategies, and configure the recommendation engine:
 
 - **Maximize Conversion:** Focus on immediate sales  
 - **Boost Discovery:** Expose users to a wider range of products  
@@ -89,4 +86,7 @@ graph TD
   - Visualize AI recommendations  
   - Tune recommendation strategies (conversion, discovery, balanced growth)  
   - Monitor metrics and performance  
-  - Configure audience targeting, product filtering, algorithm specifics, and A/B testing  
+  - Configure audience targeting, product filtering, algorithm specifics, and A/B testing
+
+ ## Disclosure
+ Some Parts of this project’s were created with the help of AI tools to improve clarity, consistency, and technical communication.
