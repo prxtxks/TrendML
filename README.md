@@ -1,5 +1,6 @@
 # 🛍️ TrendML — AI-Powered Personalized Product Recommendation Engine for Shopify
 ![TrendML Dashboard](trendML.png)
+
 ## 🔮 Core Idea
 In modern e-commerce, personalization isn’t optional—it’s expected. Customers want stores that understand their preferences, anticipate their needs, and surface relevant products in real-time.  
 
