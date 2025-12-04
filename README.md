@@ -21,12 +21,15 @@ TrendML is a **hybrid AI recommendation system** combining collaborative filteri
 - Provide explainable, actionable insights via a beautiful dashboard  
 
 ## Tech Stack
-- **Programming:** Python, Node.js  
-- **ML & AI:** TensorFlow, Scikit-Learn, Surprise  
-- **Database:** PostgreSQL  
-- **Data Handling:** Pandas, NumPy  
-- **Visualization & UI:** Streamlit for dashboard mockups  
-- **Deployment:** Flask / FastAPI backend, Shopify app integration  
+
+**Programming:** Python, Node.js  
+**ML & AI:** Scikit-Learn, Surprise, Sentence-Transformers, PyTorch  
+**Database:** PostgreSQL  
+**Data Handling:** Pandas, NumPy  
+**Dashboard & UI:** Next.js (React), Shopify Polaris, Streamlit  
+**Backend Services:** FastAPI (ML service), Node.js (Shopify backend), Shopify Admin API, Shopify Storefront API  
+**Deployment:** Docker, Vercel, Render, Shopify App Integration  
+**CI/CD:** GitHub Actions  
 
 ## How It Works
 TrendML is designed as a **plug-and-play Shopify app**. Below is the workflow from store connection to live recommendations, integrated with UI mockups.
