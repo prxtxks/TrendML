@@ -1,5 +1,5 @@
 # AI-Powered Personalized Product Recommendation Engine for Shopify
-![TrendML Dashboard](trendML.png)
+![TrendML Dashboard](./README.md/trendML.png)
 
 ## Core Idea
 In modern e-commerce, personalization isn’t optional—it’s expected. Customers want stores that understand their preferences, anticipate their needs, and surface relevant products in real-time.  
@@ -36,15 +36,15 @@ TrendML is designed as a **plug-and-play Shopify app**. Below is the workflow fr
 
 > 1. **TrendML Dashboard**: Overview of store performance, recommendation insights, and metrics.
 
-![TrendML Dashboard](dashboard.png)
+![TrendML Dashboard](./README.md/dashboard.png)
 
 > 2. **Connect Your Shopify Store**: Merchants connect their store via OAuth and API keys, then import product metadata, inventory, and categories for AI training.
 
-![Shopify Store Connection](store-connection.png)  
+![Shopify Store Connection](./README.md/store-connection.png)  
 
 > 3. **Add TrendML Widget**: Display AI-powered recommendations on homepage, collections, and product pages.
 
-![Widget on Storefront](widget.png)
+![Widget on Storefront](./README.md/widget.png)
 
 > 4. **Recommendation Tuning Lab**: Monitor metrics, tune strategies, and configure the recommendation engine:
 
@@ -52,7 +52,7 @@ TrendML is designed as a **plug-and-play Shopify app**. Below is the workflow fr
 - **Boost Discovery:** Expose users to a wider range of products  
 - **Balanced Growth:** Sustainable balance between conversion & discovery  
 
-![Recommender Settings](recommender-settings.png)
+![Recommender Settings](./README.md/recommender-settings.png)
 
 - Audience targeting  
 - Product attributes & filtering  
@@ -64,7 +64,7 @@ TrendML is designed as a **plug-and-play Shopify app**. Below is the workflow fr
 > 5. Sample Store Using TrendML
 See recommendations in action on a Shopify storefront powered by TrendML.
 
-![AI Recommendations in Action](sample-store.png)
+![AI Recommendations in Action](./README.md/sample-store.png)
 
 ## System Workflow Diagram
 
